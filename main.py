@@ -1,5 +1,5 @@
 # Thgi is main.py in my test repo
 
-print("Greetings from main.py")
+print("check out https://coronavirus.jhu.edu/map.html")
 
-a = 111
+a = 89
