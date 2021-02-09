@@ -1,22 +1,8 @@
 # Project-1
 Boot Camp Project # 1
 
-1. COVID-19 cases
-cases and deaths from COVID-19 per county from the New York Times, updated daily.
-The raw data is available at:
-https://github.com/nytimes/covid-19-data/blob/master/us-counties.csv
-
-The following is from the ReadMe accompanying the raw data:
-
-date,county,state,fips,cases,deaths
-2020-01-21,Snohomish,Washington,53061,1,0
-
-That ReadMe, including more information on methodology and attribution, is here:
-https://github.com/nytimes/covid-19-data/blob/master/README.md
-
-
-
-2. Census data
+DATA SOURCES
+1. Census data
 "Annual Estimates of the Resident Population for Counties: April 1, 2010 to July 1, 2019"
 The raw data is available at:
 https://www2.census.gov/programs-surveys/popest/datasets/2010-2019/counties/totals/co-est2019-alldata.csv
@@ -38,6 +24,21 @@ giving 01001 for Autaga County, Alabama.
 
 More information on methodology is available here:
 https://www.census.gov/data/tables/time-series/demo/popest/2010s-counties-total.html
+
+
+
+2. COVID-19 cases
+cases and deaths from COVID-19 per county from the New York Times, updated daily.
+The raw data is available at:
+https://github.com/nytimes/covid-19-data/blob/master/us-counties.csv
+
+The following is from the ReadMe accompanying the raw data:
+
+date,county,state,fips,cases,deaths
+2020-01-21,Snohomish,Washington,53061,1,0
+
+That ReadMe, including more information on methodology and attribution, is here:
+https://github.com/nytimes/covid-19-data/blob/master/README.md
 
 
 
