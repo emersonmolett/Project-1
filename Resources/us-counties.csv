@@ -180,7 +180,6 @@
 7/14/2020,Sharp,Arkansas,5135,69,5
 7/14/2020,Stone,Arkansas,5137,22,1
 7/14/2020,Union,Arkansas,5139,282,14
-7/14/2020,Unknown,Arkansas,5140,1043,0
 7/14/2020,Van Buren,Arkansas,5141,37,2
 7/14/2020,Washington,Arkansas,5143,4721,37
 7/14/2020,White,Arkansas,5145,156,2
@@ -315,12 +314,10 @@
 7/14/2020,New Haven,Connecticut,9009,12617,1087
 7/14/2020,New London,Connecticut,9011,1334,102
 7/14/2020,Tolland,Connecticut,9013,935,65
-7/14/2020,Unknown,Connecticut,9014,243,0
 7/14/2020,Windham,Connecticut,9015,638,14
 7/14/2020,Kent,Delaware,10001,1865,92
 7/14/2020,New Castle,Delaware,10003,5860,249
 7/14/2020,Sussex,Delaware,10005,5130,177
-7/14/2020,Unknown,Delaware,10006,114,0
 7/14/2020,District of Columbia,District of Columbia,11001,10946,568
 7/14/2020,Alachua,Florida,12001,2258,12
 7/14/2020,Baker,Florida,12003,180,4
@@ -385,7 +382,6 @@
 7/14/2020,Suwannee,Florida,12121,761,22
 7/14/2020,Taylor,Florida,12123,149,1
 7/14/2020,Union,Florida,12125,120,2
-7/14/2020,Unknown,Florida,12126,328,0
 7/14/2020,Volusia,Florida,12127,4163,78
 7/14/2020,Wakulla,Florida,12129,164,1
 7/14/2020,Walton,Florida,12131,622,10
@@ -534,7 +530,6 @@
 7/14/2020,Turner,Georgia,13287,190,18
 7/14/2020,Twiggs,Georgia,13289,45,1
 7/14/2020,Union,Georgia,13291,120,4
-7/14/2020,Unknown,Georgia,13292,1571,2
 7/14/2020,Upson,Georgia,13293,393,45
 7/14/2020,Walker,Georgia,13295,384,12
 7/14/2020,Walton,Georgia,13297,574,29
@@ -689,7 +684,6 @@
 7/14/2020,Stephenson,Illinois,17177,287,6
 7/14/2020,Tazewell,Illinois,17179,191,8
 7/14/2020,Union,Illinois,17181,214,19
-7/14/2020,Unknown,Illinois,17182,1132,201
 7/14/2020,Vermilion,Illinois,17183,90,2
 7/14/2020,Wabash,Illinois,17185,23,0
 7/14/2020,Warren,Illinois,17187,150,0
@@ -881,7 +875,6 @@
 7/14/2020,Tama,Iowa,19171,490,29
 7/14/2020,Taylor,Iowa,19173,81,0
 7/14/2020,Union,Iowa,19175,42,0
-7/14/2020,Unknown,Iowa,19176,33,0
 7/14/2020,Van Buren,Iowa,19177,21,1
 7/14/2020,Wapello,Iowa,19179,715,31
 7/14/2020,Warren,Iowa,19181,337,1
@@ -1173,7 +1166,6 @@
 7/14/2020,Tensas,Louisiana,22107,35,0
 7/14/2020,Terrebonne,Louisiana,22109,1750,67
 7/14/2020,Union,Louisiana,22111,483,28
-7/14/2020,Unknown,Louisiana,22112,108,108
 7/14/2020,Vermilion,Louisiana,22113,609,8
 7/14/2020,Vernon,Louisiana,22115,301,10
 7/14/2020,Washington,Louisiana,22117,871,51
@@ -1195,7 +1187,6 @@
 7/14/2020,Piscataquis,Maine,23021,5,0
 7/14/2020,Sagadahoc,Maine,23023,34,0
 7/14/2020,Somerset,Maine,23025,31,0
-7/14/2020,Unknown,Maine,23026,2,0
 7/14/2020,Waldo,Maine,23027,59,14
 7/14/2020,Washington,Maine,23029,4,0
 7/14/2020,York,Maine,23031,580,11
@@ -1219,7 +1210,6 @@
 7/14/2020,St. Mary's,Maryland,24037,721,51
 7/14/2020,Somerset,Maryland,24039,103,3
 7/14/2020,Talbot,Maryland,24041,197,4
-7/14/2020,Unknown,Maryland,24042,0,19
 7/14/2020,Washington,Maryland,24043,737,29
 7/14/2020,Wicomico,Maryland,24045,1156,42
 7/14/2020,Worcester,Maryland,24047,332,18
@@ -1237,7 +1227,6 @@
 7/14/2020,Norfolk,Massachusetts,25021,9530,959
 7/14/2020,Plymouth,Massachusetts,25023,8830,680
 7/14/2020,Suffolk,Massachusetts,25025,20386,1022
-7/14/2020,Unknown,Massachusetts,25026,301,7
 7/14/2020,Worcester,Massachusetts,25027,12710,961
 7/14/2020,Alcona,Michigan,26001,24,1
 7/14/2020,Alger,Michigan,26003,4,0
@@ -1318,7 +1307,6 @@
 7/14/2020,Schoolcraft,Michigan,26153,7,0
 7/14/2020,Shiawassee,Michigan,26155,285,28
 7/14/2020,Tuscola,Michigan,26157,243,27
-7/14/2020,Unknown,Michigan,26158,153,2
 7/14/2020,Van Buren,Michigan,26159,279,9
 7/14/2020,Washtenaw,Michigan,26161,2454,118
 7/14/2020,Wayne,Michigan,26163,24294,2764
@@ -1401,7 +1389,6 @@
 7/14/2020,Swift,Minnesota,27151,35,1
 7/14/2020,Todd,Minnesota,27153,404,2
 7/14/2020,Traverse,Minnesota,27155,8,0
-7/14/2020,Unknown,Minnesota,27156,130,38
 7/14/2020,Wabasha,Minnesota,27157,44,0
 7/14/2020,Wadena,Minnesota,27159,18,0
 7/14/2020,Waseca,Minnesota,27161,80,0
@@ -1753,7 +1740,6 @@
 7/14/2020,Thayer,Nebraska,31169,16,0
 7/14/2020,Thomas,Nebraska,31171,1,0
 7/14/2020,Thurston,Nebraska,31173,179,1
-7/14/2020,Unknown,Nebraska,31174,26,0
 7/14/2020,Valley,Nebraska,31175,8,0
 7/14/2020,Washington,Nebraska,31177,61,1
 7/14/2020,Wayne,Nebraska,31179,34,0
@@ -1807,7 +1793,6 @@
 7/14/2020,Somerset,New Jersey,34035,5122,551
 7/14/2020,Sussex,New Jersey,34037,1270,195
 7/14/2020,Union,New Jersey,34039,16721,1344
-7/14/2020,Unknown,New Jersey,34040,644,0
 7/14/2020,Warren,New Jersey,34041,1281,167
 7/14/2020,Bernalillo,New Mexico,35001,3200,97
 7/14/2020,Catron,New Mexico,35003,3,1
@@ -1888,7 +1873,6 @@
 7/14/2020,Richmond,New York,36085,0,0
 7/14/2020,Rockland,New York,36087,13733,469
 7/14/2020,St. Lawrence,New York,36089,233,4
-7/14/2020,Unknown,New York,36089,0,0
 7/14/2020,Saratoga,New York,36091,616,5
 7/14/2020,Schenectady,New York,36093,883,34
 7/14/2020,Schoharie,New York,36095,62,0
@@ -2055,7 +2039,6 @@
 7/14/2020,Stutsman,North Dakota,38093,69,2
 7/14/2020,Towner,North Dakota,38095,3,0
 7/14/2020,Traill,North Dakota,38097,28,0
-7/14/2020,Unknown,North Dakota,38098,4,4
 7/14/2020,Walsh,North Dakota,38099,60,0
 7/14/2020,Ward,North Dakota,38101,76,1
 7/14/2020,Wells,North Dakota,38103,10,0
@@ -2331,7 +2314,6 @@
 7/14/2020,Kent,Rhode Island,44003,1234,97
 7/14/2020,Newport,Rhode Island,44005,331,6
 7/14/2020,Providence,Rhode Island,44007,13144,774
-7/14/2020,Unknown,Rhode Island,44008,2085,30
 7/14/2020,Washington,Rhode Island,44009,538,63
 7/14/2020,Abbeville,South Carolina,45001,162,1
 7/14/2020,Aiken,South Carolina,45003,800,13
@@ -2816,7 +2798,6 @@
 7/14/2020,Summit,Utah,49043,596,1
 7/14/2020,Tooele,Utah,49045,364,0
 7/14/2020,Uintah,Utah,49047,45,0
-7/14/2020,Unknown,Utah,49048,0,9
 7/14/2020,Utah,Utah,49049,5560,29
 7/14/2020,Wasatch,Utah,49051,464,4
 7/14/2020,Washington,Utah,49053,1701,7
@@ -2833,7 +2814,6 @@
 7/14/2020,Orange,Vermont,50017,10,0
 7/14/2020,Orleans,Vermont,50019,14,0
 7/14/2020,Rutland,Vermont,50021,78,1
-7/14/2020,Unknown,Vermont,50022,5,0
 7/14/2020,Washington,Vermont,50023,43,1
 7/14/2020,Windham,Vermont,50025,99,3
 7/14/2020,Windsor,Vermont,50027,62,2
@@ -3125,7 +3105,6 @@
 7/14/2020,Sheboygan,Wisconsin,55117,312,4
 7/14/2020,Taylor,Wisconsin,55119,23,0
 7/14/2020,Trempealeau,Wisconsin,55121,187,0
-7/14/2020,Unknown,Wisconsin,55122,2972,7
 7/14/2020,Vernon,Wisconsin,55123,42,0
 7/14/2020,Vilas,Wisconsin,55125,17,0
 7/14/2020,Walworth,Wisconsin,55127,800,18
@@ -3159,3 +3138,24 @@
 7/14/2020,Uinta,Wyoming,56041,208,0
 7/14/2020,Washakie,Wyoming,56043,42,5
 7/14/2020,Weston,Wyoming,56045,3,0
+7/14/2020,Unknown,Arkansas,,1043,0
+7/14/2020,Unknown,Connecticut,,243,0
+7/14/2020,Unknown,Delaware,,114,0
+7/14/2020,Unknown,Florida,,328,0
+7/14/2020,Unknown,Georgia,,1571,2
+7/14/2020,Unknown,Illinois,,1132,201
+7/14/2020,Unknown,Iowa,,33,0
+7/14/2020,Unknown,Louisiana,,108,108
+7/14/2020,Unknown,Maine,,2,0
+7/14/2020,Unknown,Maryland,,0,19
+7/14/2020,Unknown,Massachusetts,,301,7
+7/14/2020,Unknown,Michigan,,153,2
+7/14/2020,Unknown,Minnesota,,130,38
+7/14/2020,Unknown,Nebraska,,26,0
+7/14/2020,Unknown,New Jersey,,644,0
+7/14/2020,Unknown,New York,,0,0
+7/14/2020,Unknown,North Dakota,,4,4
+7/14/2020,Unknown,Rhode Island,,2085,30
+7/14/2020,Unknown,Utah,,0,9
+7/14/2020,Unknown,Vermont,,5,0
+7/14/2020,Unknown,Wisconsin,,2972,7
