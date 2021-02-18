@@ -1531,8 +1531,6 @@
 7/14/2020,Jasper,Missouri,29097,807,1
 7/14/2020,Jefferson,Missouri,29099,814,23
 7/14/2020,Johnson,Missouri,29101,309,2
-7/14/2020,Joplin,Missouri,29102,293,15
-7/14/2020,Kansas City,Missouri,29102,3215,41
 7/14/2020,Knox,Missouri,29103,2,0
 7/14/2020,Laclede,Missouri,29105,102,1
 7/14/2020,Lafayette,Missouri,29107,104,2
@@ -1857,8 +1855,6 @@
 7/14/2020,Monroe,New York,36055,4248,264
 7/14/2020,Montgomery,New York,36057,141,5
 7/14/2020,Nassau,New York,36059,42423,2701
-7/14/2020,New York City,New York,36060,224293,22808
-7/14/2020,New York (County),New York,36061,0,0
 7/14/2020,Niagara,New York,36063,1351,67
 7/14/2020,Oneida,New York,36065,1847,104
 7/14/2020,Onondaga,New York,36067,3179,183
@@ -3138,6 +3134,10 @@
 7/14/2020,Uinta,Wyoming,56041,208,0
 7/14/2020,Washakie,Wyoming,56043,42,5
 7/14/2020,Weston,Wyoming,56045,3,0
+7/14/2020,New York City,New York,99999,224293,22808
+7/14/2020,Joplin,Missouri,,293,15
+7/14/2020,Kansas City,Missouri,,3215,41
+7/14/2020,New York (County),New York,,0,0
 7/14/2020,Unknown,Arkansas,,1043,0
 7/14/2020,Unknown,Connecticut,,243,0
 7/14/2020,Unknown,Delaware,,114,0
